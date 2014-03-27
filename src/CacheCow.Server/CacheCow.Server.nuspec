@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>$id$</id>
-    <version>$version$-alpha</version>
+    <version>$version$</version>
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
@@ -11,9 +11,5 @@
     <description>$description$</description>
     <copyright>Copyright 2012</copyright>
     <tags>aspnetwebapi http caching webapi cachecow etag</tags>
-    <dependencies>
-      <dependency id="CacheCow.Common" version="$version$" />
-      <dependency id="Microsoft.AspNet.WebApi.WebHost" version="4.0.30506.0"  />	  
-    </dependencies>
   </metadata>
 </package>

@@ -12,7 +12,7 @@
     <copyright>Copyright 2012</copyright>
     <tags>aspnetwebapi http caching webapi cachecow etag sqlserver sql</tags>
 	<dependencies>
-		<dependency id="CacheCow.Client" version="0.2.4"  />
+		<dependency id="CacheCow.Client" version="$version$"  />
 		<dependency id="Dapper" version="1.12.1" />
     </dependencies>	
   </metadata>
